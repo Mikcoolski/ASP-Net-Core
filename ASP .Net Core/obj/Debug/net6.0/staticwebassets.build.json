@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "k8MbxRuqre4SGb/ZZPP7r9K0gRHGh7B4C0m/v+e1Wo4=",
+  "Source": "ASPNetCore",
+  "BasePath": "_content/ASPNetCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ASPNetCore\\wwwroot",
+      "Source": "ASPNetCore",
+      "ContentRoot": "C:\\Users\\15709\\Documents\\GitHub\\ASP.NET Core 5\\ASP .Net Core\\wwwroot\\",
+      "BasePath": "_content/ASPNetCore",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\15709\\Documents\\GitHub\\ASP.NET Core 5\\ASP .Net Core\\wwwroot\\index.html",
+      "SourceId": "ASPNetCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\15709\\Documents\\GitHub\\ASP.NET Core 5\\ASP .Net Core\\wwwroot\\",
+      "BasePath": "_content/ASPNetCore",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
