@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OOxfcC8GQZLCrFI+VJksOhYDW+9y41CC+w7D4dwpmS7yYKQeBjhta1HLcT+A3uK8oLIUm6C/KGlk7UwGZA6Yqw==",
+  "dgSpecHash": "Qv6NtqQrbMWj9ICRH14+OGm+XI9Heu3ZwASEYrkFPyg9YuSFA8JGAaUufd+aDll62IxGYyMd4OpLse91bi2TZQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\15709\\Documents\\GitHub\\ASP.NET Core 5\\ASP .Net Core\\ASPNetCore.csproj",
+  "projectFilePath": "C:\\Users\\15709\\Documents\\GitHub\\ASP-Net-Core\\ASP .Net Core\\ASPNetCore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

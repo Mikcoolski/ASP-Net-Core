@@ -25,3 +25,31 @@ C:\Users\15709\Documents\GitHub\ASP.NET Core 5\ASP .Net Core\obj\Debug\net6.0\re
 C:\Users\15709\Documents\GitHub\ASP.NET Core 5\ASP .Net Core\obj\Debug\net6.0\ASPNetCore.pdb
 C:\Users\15709\Documents\GitHub\ASP.NET Core 5\ASP .Net Core\obj\Debug\net6.0\ASPNetCore.genruntimeconfig.cache
 C:\Users\15709\Documents\GitHub\ASP.NET Core 5\ASP .Net Core\obj\Debug\net6.0\ref\ASPNetCore.dll
+C:\Users\15709\Documents\GitHub\ASP-Net-Core\ASP .Net Core\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\15709\Documents\GitHub\ASP-Net-Core\ASP .Net Core\bin\Debug\net6.0\appsettings.json
+C:\Users\15709\Documents\GitHub\ASP-Net-Core\ASP .Net Core\bin\Debug\net6.0\ASPNetCore.staticwebassets.runtime.json
+C:\Users\15709\Documents\GitHub\ASP-Net-Core\ASP .Net Core\bin\Debug\net6.0\ASPNetCore.exe
+C:\Users\15709\Documents\GitHub\ASP-Net-Core\ASP .Net Core\bin\Debug\net6.0\ASPNetCore.deps.json
+C:\Users\15709\Documents\GitHub\ASP-Net-Core\ASP .Net Core\bin\Debug\net6.0\ASPNetCore.runtimeconfig.json
+C:\Users\15709\Documents\GitHub\ASP-Net-Core\ASP .Net Core\bin\Debug\net6.0\ASPNetCore.dll
+C:\Users\15709\Documents\GitHub\ASP-Net-Core\ASP .Net Core\bin\Debug\net6.0\ASPNetCore.pdb
+C:\Users\15709\Documents\GitHub\ASP-Net-Core\ASP .Net Core\obj\Debug\net6.0\ASPNetCore.csproj.AssemblyReference.cache
+C:\Users\15709\Documents\GitHub\ASP-Net-Core\ASP .Net Core\obj\Debug\net6.0\ASPNetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15709\Documents\GitHub\ASP-Net-Core\ASP .Net Core\obj\Debug\net6.0\ASPNetCore.AssemblyInfoInputs.cache
+C:\Users\15709\Documents\GitHub\ASP-Net-Core\ASP .Net Core\obj\Debug\net6.0\ASPNetCore.AssemblyInfo.cs
+C:\Users\15709\Documents\GitHub\ASP-Net-Core\ASP .Net Core\obj\Debug\net6.0\ASPNetCore.csproj.CoreCompileInputs.cache
+C:\Users\15709\Documents\GitHub\ASP-Net-Core\ASP .Net Core\obj\Debug\net6.0\ASPNetCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\15709\Documents\GitHub\ASP-Net-Core\ASP .Net Core\obj\Debug\net6.0\staticwebassets\msbuild.ASPNetCore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\15709\Documents\GitHub\ASP-Net-Core\ASP .Net Core\obj\Debug\net6.0\staticwebassets\msbuild.build.ASPNetCore.props
+C:\Users\15709\Documents\GitHub\ASP-Net-Core\ASP .Net Core\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASPNetCore.props
+C:\Users\15709\Documents\GitHub\ASP-Net-Core\ASP .Net Core\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASPNetCore.props
+C:\Users\15709\Documents\GitHub\ASP-Net-Core\ASP .Net Core\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\15709\Documents\GitHub\ASP-Net-Core\ASP .Net Core\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\15709\Documents\GitHub\ASP-Net-Core\ASP .Net Core\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\15709\Documents\GitHub\ASP-Net-Core\ASP .Net Core\obj\Debug\net6.0\scopedcss\bundle\ASPNetCore.styles.css
+C:\Users\15709\Documents\GitHub\ASP-Net-Core\ASP .Net Core\obj\Debug\net6.0\ASPNetCore.dll
+C:\Users\15709\Documents\GitHub\ASP-Net-Core\ASP .Net Core\obj\Debug\net6.0\refint\ASPNetCore.dll
+C:\Users\15709\Documents\GitHub\ASP-Net-Core\ASP .Net Core\obj\Debug\net6.0\ASPNetCore.pdb
+C:\Users\15709\Documents\GitHub\ASP-Net-Core\ASP .Net Core\obj\Debug\net6.0\ASPNetCore.genruntimeconfig.cache
+C:\Users\15709\Documents\GitHub\ASP-Net-Core\ASP .Net Core\obj\Debug\net6.0\ref\ASPNetCore.dll
+C:\Users\15709\Documents\GitHub\ASP-Net-Core\ASP .Net Core\bin\Debug\net6.0\libman.json

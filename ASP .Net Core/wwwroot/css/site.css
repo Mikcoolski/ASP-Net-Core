@@ -49,3 +49,19 @@ ul.products-props {
     border: 1px solid black;
     max-width: 150px;
   }
+
+#login-block {
+    float: right;
+}
+
+    #login-block .toggle-item {
+        text-align: right;
+    }
+
+    #login-block .popup-form {
+        display: none;
+        background-color: grey;
+        border: solid 1px black;
+        padding: 2px;
+        font-size: 10px;
+    }
